@@ -1,9 +1,9 @@
 # TheWeekndTexturePackMinecraft
 Release: Usaremos elementos de la tabla periodica para el lanzamiento de versiones para poder tener un control propio ademas de la version numerica para que el juego pueda sobre-escribir los archivos y no salgan con errores en la importación
 
-Hidrogeno "H" Initial Realese
+Hidrogeno "H" Initial Release
 
-Hidrogeno "H2" Second Realese
+Hidrogeno "H2" Second Release
 
 ![image](https://user-images.githubusercontent.com/73773940/208227716-85f84eb9-0c03-4c5d-b225-bc6440c01b8f.png)
 
